@@ -1,0 +1,3 @@
+while true do
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Tests/main/wd_Arise/loader.lua"))() 
+end
